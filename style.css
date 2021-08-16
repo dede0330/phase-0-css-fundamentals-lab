@@ -1,5 +1,35 @@
-body {
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+
+tbody {
   width: 100%;
   height: 100%;
   margin: 0;
+}
+
+h1{
+  align: center;
+}
+img {
+  align-items: center;
+}
+a{
+  align-items: center;
+  padding: 10px;
+}
+figcaption{
+  align: center;
+  font-size: 9px;
+}
+p{
+  align: centered;
+  featured-property:800px;
+}
+div {
+float: left;
+background: enable;
+width: 25%;
 }
